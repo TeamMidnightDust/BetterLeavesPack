@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/redwood_leaves1" },
+			{ "model": "byg:block/redwood_leaves2" },
+			{ "model": "byg:block/redwood_leaves3" },
+			{ "model": "byg:block/redwood_leaves4" },
+			{ "model": "byg:block/redwood_leaves5" },
+			{ "model": "byg:block/redwood_leaves6" },
+			{ "model": "byg:block/redwood_leaves7" },
+			{ "model": "byg:block/redwood_leaves8" }
+		]
+    }
+}

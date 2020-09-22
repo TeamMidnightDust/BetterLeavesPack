@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves1" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves2" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves3" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves4" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves5" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves6" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves7" },
+			{ "model": "terrestria:block/japanese_maple_shrub_leaves8" }
+		]
+    }
+}

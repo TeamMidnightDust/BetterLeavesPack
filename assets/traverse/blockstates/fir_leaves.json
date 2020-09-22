@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "traverse:block/fir_leaves1" },
+			{ "model": "traverse:block/fir_leaves2" },
+			{ "model": "traverse:block/fir_leaves3" },
+			{ "model": "traverse:block/fir_leaves4" },
+			{ "model": "traverse:block/fir_leaves5" },
+			{ "model": "traverse:block/fir_leaves6" },
+			{ "model": "traverse:block/fir_leaves7" },
+			{ "model": "traverse:block/fir_leaves8" }
+		]
+    }
+}

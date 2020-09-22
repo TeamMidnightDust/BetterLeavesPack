@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves5",
+    "textures": {
+        "0":"dungeons:block/pumpkin_pastures/yellow_autumnal_leaves"
+    }
+}

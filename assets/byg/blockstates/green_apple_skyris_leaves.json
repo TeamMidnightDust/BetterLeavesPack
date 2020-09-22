@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/green_apple_skyris_leaves1" },
+			{ "model": "byg:block/green_apple_skyris_leaves2" },
+			{ "model": "byg:block/green_apple_skyris_leaves3" },
+			{ "model": "byg:block/green_apple_skyris_leaves4" },
+			{ "model": "byg:block/green_apple_skyris_leaves5" },
+			{ "model": "byg:block/green_apple_skyris_leaves6" },
+			{ "model": "byg:block/green_apple_skyris_leaves7" },
+			{ "model": "byg:block/green_apple_skyris_leaves8" }
+		]
+    }
+}

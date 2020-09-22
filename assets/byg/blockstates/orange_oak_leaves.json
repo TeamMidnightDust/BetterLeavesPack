@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/orange_oak_leaves1" },
+			{ "model": "byg:block/orange_oak_leaves2" },
+			{ "model": "byg:block/orange_oak_leaves3" },
+			{ "model": "byg:block/orange_oak_leaves4" },
+			{ "model": "byg:block/orange_oak_leaves5" },
+			{ "model": "byg:block/orange_oak_leaves6" },
+			{ "model": "byg:block/orange_oak_leaves7" },
+			{ "model": "byg:block/orange_oak_leaves8" }
+		]
+    }
+}

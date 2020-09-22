@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/holly_berry_leaves1" },
+			{ "model": "byg:block/holly_berry_leaves2" },
+			{ "model": "byg:block/holly_berry_leaves3" },
+			{ "model": "byg:block/holly_berry_leaves4" },
+			{ "model": "byg:block/holly_berry_leaves5" },
+			{ "model": "byg:block/holly_berry_leaves6" },
+			{ "model": "byg:block/holly_berry_leaves7" },
+			{ "model": "byg:block/holly_berry_leaves8" }
+		]
+    }
+}

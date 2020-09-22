@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/orchard_leaves1" },
+			{ "model": "byg:block/orchard_leaves2" },
+			{ "model": "byg:block/orchard_leaves3" },
+			{ "model": "byg:block/orchard_leaves4" },
+			{ "model": "byg:block/orchard_leaves5" },
+			{ "model": "byg:block/orchard_leaves6" },
+			{ "model": "byg:block/orchard_leaves7" },
+			{ "model": "byg:block/orchard_leaves8" }
+		]
+    }
+}

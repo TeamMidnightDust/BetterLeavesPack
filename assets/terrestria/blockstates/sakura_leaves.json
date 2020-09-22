@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "terrestria:block/sakura_leaves1" },
+			{ "model": "terrestria:block/sakura_leaves2" },
+			{ "model": "terrestria:block/sakura_leaves3" },
+			{ "model": "terrestria:block/sakura_leaves4" },
+			{ "model": "terrestria:block/sakura_leaves5" },
+			{ "model": "terrestria:block/sakura_leaves6" },
+			{ "model": "terrestria:block/sakura_leaves7" },
+			{ "model": "terrestria:block/sakura_leaves8" }
+		]
+    }
+}

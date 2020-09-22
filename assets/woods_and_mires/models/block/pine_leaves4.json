@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves4",
+    "textures": {
+        "0":"woods_and_mires:block/pine_leaves"
+    }
+}

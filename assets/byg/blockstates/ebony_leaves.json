@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/ebony_leaves1" },
+			{ "model": "byg:block/ebony_leaves2" },
+			{ "model": "byg:block/ebony_leaves3" },
+			{ "model": "byg:block/ebony_leaves4" },
+			{ "model": "byg:block/ebony_leaves5" },
+			{ "model": "byg:block/ebony_leaves6" },
+			{ "model": "byg:block/ebony_leaves7" },
+			{ "model": "byg:block/ebony_leaves8" }
+		]
+    }
+}

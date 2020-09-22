@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "terrestria:block/hemlock_leaves1" },
+			{ "model": "terrestria:block/hemlock_leaves2" },
+			{ "model": "terrestria:block/hemlock_leaves3" },
+			{ "model": "terrestria:block/hemlock_leaves4" },
+			{ "model": "terrestria:block/hemlock_leaves5" },
+			{ "model": "terrestria:block/hemlock_leaves6" },
+			{ "model": "terrestria:block/hemlock_leaves7" },
+			{ "model": "terrestria:block/hemlock_leaves8" }
+		]
+    }
+}

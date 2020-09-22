@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "techreborn:block/rubber_leaves1" },
+			{ "model": "techreborn:block/rubber_leaves2" },
+			{ "model": "techreborn:block/rubber_leaves3" },
+			{ "model": "techreborn:block/rubber_leaves4" },
+			{ "model": "techreborn:block/rubber_leaves5" },
+			{ "model": "techreborn:block/rubber_leaves6" },
+			{ "model": "techreborn:block/rubber_leaves7" },
+			{ "model": "techreborn:block/rubber_leaves8" }
+		]
+    }
+}

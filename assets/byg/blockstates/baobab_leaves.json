@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/baobab_leaves1" },
+			{ "model": "byg:block/baobab_leaves2" },
+			{ "model": "byg:block/baobab_leaves3" },
+			{ "model": "byg:block/baobab_leaves4" },
+			{ "model": "byg:block/baobab_leaves5" },
+			{ "model": "byg:block/baobab_leaves6" },
+			{ "model": "byg:block/baobab_leaves7" },
+			{ "model": "byg:block/baobab_leaves8" }
+		]
+    }
+}

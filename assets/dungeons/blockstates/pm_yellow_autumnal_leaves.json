@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves1" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves2" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves3" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves4" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves5" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves6" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves7" },
+			{ "model": "dungeons:block/pumpkin_pastures/pm_yellow_autumnal_leaves8" }
+		]
+    }
+}

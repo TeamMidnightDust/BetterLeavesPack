@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves1",
+    "textures": {
+        "0":"byg:blocks/ripe_orchard_leaves"
+    }
+}

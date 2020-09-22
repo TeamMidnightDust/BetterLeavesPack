@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/blue_enchanted_leaves1" },
+			{ "model": "byg:block/blue_enchanted_leaves2" },
+			{ "model": "byg:block/blue_enchanted_leaves3" },
+			{ "model": "byg:block/blue_enchanted_leaves4" },
+			{ "model": "byg:block/blue_enchanted_leaves5" },
+			{ "model": "byg:block/blue_enchanted_leaves6" },
+			{ "model": "byg:block/blue_enchanted_leaves7" },
+			{ "model": "byg:block/blue_enchanted_leaves8" }
+		]
+    }
+}

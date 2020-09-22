@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/jacaranda_leaves1" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves2" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves3" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves4" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves5" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves6" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves7" },
+			{ "model": "biomesoplenty:block/jacaranda_leaves8" }
+		]
+    }
+}

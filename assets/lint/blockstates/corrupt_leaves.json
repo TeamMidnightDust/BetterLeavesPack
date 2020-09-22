@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "lint:block/corrupt_leaves1" },
+			{ "model": "lint:block/corrupt_leaves2" },
+			{ "model": "lint:block/corrupt_leaves3" },
+			{ "model": "lint:block/corrupt_leaves4" },
+			{ "model": "lint:block/corrupt_leaves5" },
+			{ "model": "lint:block/corrupt_leaves6" },
+			{ "model": "lint:block/corrupt_leaves7" },
+			{ "model": "lint:block/corrupt_leaves8" }
+		]
+    }
+}

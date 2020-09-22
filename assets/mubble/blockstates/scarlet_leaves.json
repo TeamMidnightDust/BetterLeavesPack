@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "mubble:block/scarlet_leaves1" },
+			{ "model": "mubble:block/scarlet_leaves2" },
+			{ "model": "mubble:block/scarlet_leaves3" },
+			{ "model": "mubble:block/scarlet_leaves4" },
+			{ "model": "mubble:block/scarlet_leaves5" },
+			{ "model": "mubble:block/scarlet_leaves6" },
+			{ "model": "mubble:block/scarlet_leaves7" },
+			{ "model": "mubble:block/scarlet_leaves8" }
+		]
+    }
+}

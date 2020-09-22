@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/green_apple_leaves1" },
+			{ "model": "byg:block/green_apple_leaves2" },
+			{ "model": "byg:block/green_apple_leaves3" },
+			{ "model": "byg:block/green_apple_leaves4" },
+			{ "model": "byg:block/green_apple_leaves5" },
+			{ "model": "byg:block/green_apple_leaves6" },
+			{ "model": "byg:block/green_apple_leaves7" },
+			{ "model": "byg:block/green_apple_leaves8" }
+		]
+    }
+}

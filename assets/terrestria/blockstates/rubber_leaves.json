@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "terrestria:block/rubber_leaves1" },
+			{ "model": "terrestria:block/rubber_leaves2" },
+			{ "model": "terrestria:block/rubber_leaves3" },
+			{ "model": "terrestria:block/rubber_leaves4" },
+			{ "model": "terrestria:block/rubber_leaves5" },
+			{ "model": "terrestria:block/rubber_leaves6" },
+			{ "model": "terrestria:block/rubber_leaves7" },
+			{ "model": "terrestria:block/rubber_leaves8" }
+		]
+    }
+}

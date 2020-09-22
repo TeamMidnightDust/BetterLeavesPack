@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "lint:block/mystical_leaves1" },
+			{ "model": "lint:block/mystical_leaves2" },
+			{ "model": "lint:block/mystical_leaves3" },
+			{ "model": "lint:block/mystical_leaves4" },
+			{ "model": "lint:block/mystical_leaves5" },
+			{ "model": "lint:block/mystical_leaves6" },
+			{ "model": "lint:block/mystical_leaves7" },
+			{ "model": "lint:block/mystical_leaves8" }
+		]
+    }
+}

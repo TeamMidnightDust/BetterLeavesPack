@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "mubble:block/autumn_birch_leaves1" },
+			{ "model": "mubble:block/autumn_birch_leaves2" },
+			{ "model": "mubble:block/autumn_birch_leaves3" },
+			{ "model": "mubble:block/autumn_birch_leaves4" },
+			{ "model": "mubble:block/autumn_birch_leaves5" },
+			{ "model": "mubble:block/autumn_birch_leaves6" },
+			{ "model": "mubble:block/autumn_birch_leaves7" },
+			{ "model": "mubble:block/autumn_birch_leaves8" }
+		]
+    }
+}

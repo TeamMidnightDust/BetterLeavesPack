@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "mubble:block/palm_leaves1" },
+			{ "model": "mubble:block/palm_leaves2" },
+			{ "model": "mubble:block/palm_leaves3" },
+			{ "model": "mubble:block/palm_leaves4" },
+			{ "model": "mubble:block/palm_leaves5" },
+			{ "model": "mubble:block/palm_leaves6" },
+			{ "model": "mubble:block/palm_leaves7" },
+			{ "model": "mubble:block/palm_leaves8" }
+		]
+    }
+}

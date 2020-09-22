@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "woods_and_mires:block/pine_leaves1" },
+			{ "model": "woods_and_mires:block/pine_leaves2" },
+			{ "model": "woods_and_mires:block/pine_leaves3" },
+			{ "model": "woods_and_mires:block/pine_leaves4" },
+			{ "model": "woods_and_mires:block/pine_leaves5" },
+			{ "model": "woods_and_mires:block/pine_leaves6" },
+			{ "model": "woods_and_mires:block/pine_leaves7" },
+			{ "model": "woods_and_mires:block/pine_leaves8" }
+		]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves1" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves2" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves3" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves4" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves5" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves6" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves7" },
+			{ "model": "luminiferous_uplands:block/yellow_skyroot_leaves8" }
+		]
+    }
+}

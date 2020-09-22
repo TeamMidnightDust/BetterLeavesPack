@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves4",
+    "textures": {
+        "0":"terrestria:block/rainbow_eucalyptus_leaves"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves4",
+    "textures": {
+        "0":"byg:blocks/oak_leaves_dry_brown"
+    }
+}

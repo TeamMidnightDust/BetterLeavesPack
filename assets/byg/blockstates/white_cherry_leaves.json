@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/white_cherry_leaves1" },
+			{ "model": "byg:block/white_cherry_leaves2" },
+			{ "model": "byg:block/white_cherry_leaves3" },
+			{ "model": "byg:block/white_cherry_leaves4" },
+			{ "model": "byg:block/white_cherry_leaves5" },
+			{ "model": "byg:block/white_cherry_leaves6" },
+			{ "model": "byg:block/white_cherry_leaves7" },
+			{ "model": "byg:block/white_cherry_leaves8" }
+		]
+    }
+}

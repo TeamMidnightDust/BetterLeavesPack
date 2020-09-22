@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "crimson:block/crimson_leaves1" },
+			{ "model": "crimson:block/crimson_leaves2" },
+			{ "model": "crimson:block/crimson_leaves3" },
+			{ "model": "crimson:block/crimson_leaves4" },
+			{ "model": "crimson:block/crimson_leaves5" },
+			{ "model": "crimson:block/crimson_leaves6" },
+			{ "model": "crimson:block/crimson_leaves7" },
+			{ "model": "crimson:block/crimson_leaves8" }
+		]
+    }
+}

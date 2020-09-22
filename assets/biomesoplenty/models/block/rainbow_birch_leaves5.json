@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves5",
+    "textures": {
+        "0":"biomesoplenty:block/rainbow_birch_leaves"
+    }
+}

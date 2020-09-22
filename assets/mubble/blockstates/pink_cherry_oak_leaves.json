@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "mubble:block/pink_cherry_oak_leaves1" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves2" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves3" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves4" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves5" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves6" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves7" },
+			{ "model": "mubble:block/pink_cherry_oak_leaves8" }
+		]
+    }
+}

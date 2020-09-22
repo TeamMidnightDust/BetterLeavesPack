@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/cika_leaves1" },
+			{ "model": "byg:block/cika_leaves2" },
+			{ "model": "byg:block/cika_leaves3" },
+			{ "model": "byg:block/cika_leaves4" },
+			{ "model": "byg:block/cika_leaves5" },
+			{ "model": "byg:block/cika_leaves6" },
+			{ "model": "byg:block/cika_leaves7" },
+			{ "model": "byg:block/cika_leaves8" }
+		]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "terrestria:block/jungle_palm_leaves1" },
+			{ "model": "terrestria:block/jungle_palm_leaves2" },
+			{ "model": "terrestria:block/jungle_palm_leaves3" },
+			{ "model": "terrestria:block/jungle_palm_leaves4" },
+			{ "model": "terrestria:block/jungle_palm_leaves5" },
+			{ "model": "terrestria:block/jungle_palm_leaves6" },
+			{ "model": "terrestria:block/jungle_palm_leaves7" },
+			{ "model": "terrestria:block/jungle_palm_leaves8" }
+		]
+    }
+}

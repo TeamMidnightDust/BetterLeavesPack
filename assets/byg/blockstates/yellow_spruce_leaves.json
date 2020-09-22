@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/yellow_spruce_leaves1" },
+			{ "model": "byg:block/yellow_spruce_leaves2" },
+			{ "model": "byg:block/yellow_spruce_leaves3" },
+			{ "model": "byg:block/yellow_spruce_leaves4" },
+			{ "model": "byg:block/yellow_spruce_leaves5" },
+			{ "model": "byg:block/yellow_spruce_leaves6" },
+			{ "model": "byg:block/yellow_spruce_leaves7" },
+			{ "model": "byg:block/yellow_spruce_leaves8" }
+		]
+    }
+}

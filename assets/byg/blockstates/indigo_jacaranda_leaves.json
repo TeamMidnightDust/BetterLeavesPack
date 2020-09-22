@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/indigo_jacaranda_leaves1" },
+			{ "model": "byg:block/indigo_jacaranda_leaves2" },
+			{ "model": "byg:block/indigo_jacaranda_leaves3" },
+			{ "model": "byg:block/indigo_jacaranda_leaves4" },
+			{ "model": "byg:block/indigo_jacaranda_leaves5" },
+			{ "model": "byg:block/indigo_jacaranda_leaves6" },
+			{ "model": "byg:block/indigo_jacaranda_leaves7" },
+			{ "model": "byg:block/indigo_jacaranda_leaves8" }
+		]
+    }
+}

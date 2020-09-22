@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "traverse:block/red_autumnal_leaves1" },
+			{ "model": "traverse:block/red_autumnal_leaves2" },
+			{ "model": "traverse:block/red_autumnal_leaves3" },
+			{ "model": "traverse:block/red_autumnal_leaves4" },
+			{ "model": "traverse:block/red_autumnal_leaves5" },
+			{ "model": "traverse:block/red_autumnal_leaves6" },
+			{ "model": "traverse:block/red_autumnal_leaves7" },
+			{ "model": "traverse:block/red_autumnal_leaves8" }
+		]
+    }
+}

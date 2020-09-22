@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/rainbow_eucalyptus_leaves1" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves2" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves3" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves4" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves5" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves6" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves7" },
+			{ "model": "byg:block/rainbow_eucalyptus_leaves8" }
+		]
+    }
+}

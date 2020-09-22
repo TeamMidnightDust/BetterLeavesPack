@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/hellbark_leaves1" },
+			{ "model": "biomesoplenty:block/hellbark_leaves2" },
+			{ "model": "biomesoplenty:block/hellbark_leaves3" },
+			{ "model": "biomesoplenty:block/hellbark_leaves4" },
+			{ "model": "biomesoplenty:block/hellbark_leaves5" },
+			{ "model": "biomesoplenty:block/hellbark_leaves6" },
+			{ "model": "biomesoplenty:block/hellbark_leaves7" },
+			{ "model": "biomesoplenty:block/hellbark_leaves8" }
+		]
+    }
+}

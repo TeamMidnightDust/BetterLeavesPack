@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves1",
+    "textures": {
+        "0":"lint:block/features/mystical_tree/mystical_leaves"
+    }
+}
