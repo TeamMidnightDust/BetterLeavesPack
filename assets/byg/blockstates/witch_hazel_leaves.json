@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/witch_hazel_leaves1" },
+			{ "model": "byg:block/witch_hazel_leaves2" },
+			{ "model": "byg:block/witch_hazel_leaves3" },
+			{ "model": "byg:block/witch_hazel_leaves4" },
+			{ "model": "byg:block/witch_hazel_leaves5" },
+			{ "model": "byg:block/witch_hazel_leaves6" },
+			{ "model": "byg:block/witch_hazel_leaves7" },
+			{ "model": "byg:block/witch_hazel_leaves8" }
+		]
+    }
+}

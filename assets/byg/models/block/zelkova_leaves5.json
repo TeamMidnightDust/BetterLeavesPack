@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves5",
     "textures": {
-        "0":"byg:blocks/zelkova_leaves"
+        "0":"byg:block/zelkova_leaves"
     }
 }

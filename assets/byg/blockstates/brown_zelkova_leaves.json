@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/brown_zelkova_leaves1" },
+			{ "model": "byg:block/brown_zelkova_leaves2" },
+			{ "model": "byg:block/brown_zelkova_leaves3" },
+			{ "model": "byg:block/brown_zelkova_leaves4" },
+			{ "model": "byg:block/brown_zelkova_leaves5" },
+			{ "model": "byg:block/brown_zelkova_leaves6" },
+			{ "model": "byg:block/brown_zelkova_leaves7" },
+			{ "model": "byg:block/brown_zelkova_leaves8" }
+		]
+    }
+}

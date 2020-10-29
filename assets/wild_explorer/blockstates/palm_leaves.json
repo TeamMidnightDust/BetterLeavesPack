@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "wild_explorer:block/palm_leaves1" },
+			{ "model": "wild_explorer:block/palm_leaves2" },
+			{ "model": "wild_explorer:block/palm_leaves3" },
+			{ "model": "wild_explorer:block/palm_leaves4" },
+			{ "model": "wild_explorer:block/palm_leaves5" },
+			{ "model": "wild_explorer:block/palm_leaves6" },
+			{ "model": "wild_explorer:block/palm_leaves7" },
+			{ "model": "wild_explorer:block/palm_leaves8" }
+		]
+    }
+}

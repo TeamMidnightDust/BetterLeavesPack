@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves5",
     "textures": {
-        "0":"byg:blocks/green_apple_skyris_leaves"
+        "0":"byg:block/green_apple_skyris_leaves"
     }
 }

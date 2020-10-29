@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "queks_end:block/end_leaves1" },
+			{ "model": "queks_end:block/end_leaves2" },
+			{ "model": "queks_end:block/end_leaves3" },
+			{ "model": "queks_end:block/end_leaves4" },
+			{ "model": "queks_end:block/end_leaves5" },
+			{ "model": "queks_end:block/end_leaves6" },
+			{ "model": "queks_end:block/end_leaves7" },
+			{ "model": "queks_end:block/end_leaves8" }
+		]
+    }
+}

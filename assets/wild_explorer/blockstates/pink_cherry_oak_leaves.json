@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "wild_explorer:block/cherry_oak_leaves1" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves2" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves3" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves4" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves5" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves6" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves7" },
+			{ "model": "wild_explorer:block/cherry_oak_leaves8" }
+		]
+    }
+}

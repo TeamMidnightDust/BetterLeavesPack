@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/ether_leaves1" },
+			{ "model": "byg:block/ether_leaves2" },
+			{ "model": "byg:block/ether_leaves3" },
+			{ "model": "byg:block/ether_leaves4" },
+			{ "model": "byg:block/ether_leaves5" },
+			{ "model": "byg:block/ether_leaves6" },
+			{ "model": "byg:block/ether_leaves7" },
+			{ "model": "byg:block/ether_leaves8" }
+		]
+    }
+}

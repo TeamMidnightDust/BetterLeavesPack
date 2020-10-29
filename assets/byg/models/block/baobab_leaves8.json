@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves8",
     "textures": {
-        "0":"byg:blocks/baobab_leaves"
+        "0":"byg:block/baobab_leaves"
     }
 }

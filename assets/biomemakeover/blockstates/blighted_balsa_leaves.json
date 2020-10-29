@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomemakeover:block/blighted_balsa_leaves1" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves2" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves3" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves4" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves5" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves6" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves7" },
+			{ "model": "biomemakeover:block/blighted_balsa_leaves8" }
+		]
+    }
+}

@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves3",
     "textures": {
-        "0":"byg:blocks/glacial_oak_leaves"
+        "0":"byg:block/glacial_oak_leaves"
     }
 }

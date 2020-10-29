@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves2",
+    "textures": {
+        "0":"biomemakeover:block/blighted_balsa_leaves"
+    }
+}

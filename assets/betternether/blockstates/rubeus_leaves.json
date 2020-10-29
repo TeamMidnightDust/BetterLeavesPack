@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betternether:block/rubeus_leaves1" },
+			{ "model": "betternether:block/rubeus_leaves2" },
+			{ "model": "betternether:block/rubeus_leaves3" },
+			{ "model": "betternether:block/rubeus_leaves4" },
+			{ "model": "betternether:block/rubeus_leaves5" },
+			{ "model": "betternether:block/rubeus_leaves6" },
+			{ "model": "betternether:block/rubeus_leaves7" },
+			{ "model": "betternether:block/rubeus_leaves8" }
+		]
+    }
+}

@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves7",
     "textures": {
-        "0":"byg:blocks/maple_leaves"
+        "0":"byg:block/maple_leaves"
     }
 }

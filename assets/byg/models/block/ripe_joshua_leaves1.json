@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves1",
     "textures": {
-        "0":"byg:blocks/ripe_joshua_leaves"
+        "0":"byg:block/ripe_joshua_leaves"
     }
 }

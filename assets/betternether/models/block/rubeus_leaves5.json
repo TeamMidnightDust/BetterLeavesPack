@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves5",
+    "textures": {
+        "0":"betternether:block/rubeus_leaves"
+    }
+}

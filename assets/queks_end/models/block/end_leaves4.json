@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves4",
+    "textures": {
+        "0":"queks_end:block/end_leaves"
+    }
+}

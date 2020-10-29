@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "byg:block/flowering_nightshade_leaves1" },
+			{ "model": "byg:block/flowering_nightshade_leaves2" },
+			{ "model": "byg:block/flowering_nightshade_leaves3" },
+			{ "model": "byg:block/flowering_nightshade_leaves4" },
+			{ "model": "byg:block/flowering_nightshade_leaves5" },
+			{ "model": "byg:block/flowering_nightshade_leaves6" },
+			{ "model": "byg:block/flowering_nightshade_leaves7" },
+			{ "model": "byg:block/flowering_nightshade_leaves8" }
+		]
+    }
+}

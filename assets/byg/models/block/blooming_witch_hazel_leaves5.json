@@ -1,6 +1,6 @@
 {
     "parent":"block/leaves5",
     "textures": {
-        "0":"byg:blocks/witch_hazel_leaves_blooming"
+        "0":"byg:block/witch_hazel_leaves_blooming"
     }
 }

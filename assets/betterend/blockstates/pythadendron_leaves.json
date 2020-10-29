@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterend:block/pythadendron_leaves1" },
+			{ "model": "betterend:block/pythadendron_leaves2" },
+			{ "model": "betterend:block/pythadendron_leaves3" },
+			{ "model": "betterend:block/pythadendron_leaves4" },
+			{ "model": "betterend:block/pythadendron_leaves5" },
+			{ "model": "betterend:block/pythadendron_leaves6" },
+			{ "model": "betterend:block/pythadendron_leaves7" },
+			{ "model": "betterend:block/pythadendron_leaves8" }
+		]
+    }
+}
