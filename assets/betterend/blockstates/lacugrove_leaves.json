@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterend:block/lacugrove_leaves1" },
+			{ "model": "betterend:block/lacugrove_leaves2" },
+			{ "model": "betterend:block/lacugrove_leaves3" },
+			{ "model": "betterend:block/lacugrove_leaves4" },
+			{ "model": "betterend:block/lacugrove_leaves5" },
+			{ "model": "betterend:block/lacugrove_leaves6" },
+			{ "model": "betterend:block/lacugrove_leaves7" },
+			{ "model": "betterend:block/lacugrove_leaves8" }
+		]
+    }
+}

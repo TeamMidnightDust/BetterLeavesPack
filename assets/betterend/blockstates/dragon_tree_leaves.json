@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterend:block/dragon_tree_leaves1" },
+			{ "model": "betterend:block/dragon_tree_leaves2" },
+			{ "model": "betterend:block/dragon_tree_leaves3" },
+			{ "model": "betterend:block/dragon_tree_leaves4" },
+			{ "model": "betterend:block/dragon_tree_leaves5" },
+			{ "model": "betterend:block/dragon_tree_leaves6" },
+			{ "model": "betterend:block/dragon_tree_leaves7" },
+			{ "model": "betterend:block/dragon_tree_leaves8" }
+		]
+    }
+}
