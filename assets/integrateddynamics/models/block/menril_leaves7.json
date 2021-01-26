@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves7",
+    "textures": {
+        "0":"integrateddynamics:block/menril_leaves_fancy"
+    }
+}

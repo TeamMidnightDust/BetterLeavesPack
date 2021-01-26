@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "integrateddynamics:block/menril_leaves1" },
+			{ "model": "integrateddynamics:block/menril_leaves2" },
+			{ "model": "integrateddynamics:block/menril_leaves3" },
+			{ "model": "integrateddynamics:block/menril_leaves4" },
+			{ "model": "integrateddynamics:block/menril_leaves5" },
+			{ "model": "integrateddynamics:block/menril_leaves6" },
+			{ "model": "integrateddynamics:block/menril_leaves7" },
+			{ "model": "integrateddynamics:block/menril_leaves8" }
+		]
+    }
+}
