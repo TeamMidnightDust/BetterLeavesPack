@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "druidcraft:block/fruit_leaves1" },
+			{ "model": "druidcraft:block/fruit_leaves2" },
+			{ "model": "druidcraft:block/fruit_leaves3" },
+			{ "model": "druidcraft:block/fruit_leaves4" },
+			{ "model": "druidcraft:block/fruit_leaves5" },
+			{ "model": "druidcraft:block/fruit_leaves6" },
+			{ "model": "druidcraft:block/fruit_leaves7" },
+			{ "model": "druidcraft:block/fruit_leaves8" }
+		]
+    }
+}

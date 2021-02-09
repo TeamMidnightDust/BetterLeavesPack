@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "upgrade_aquatic:block/river_leaves1" },
+			{ "model": "upgrade_aquatic:block/river_leaves2" },
+			{ "model": "upgrade_aquatic:block/river_leaves3" },
+			{ "model": "upgrade_aquatic:block/river_leaves4" },
+			{ "model": "upgrade_aquatic:block/river_leaves5" },
+			{ "model": "upgrade_aquatic:block/river_leaves6" },
+			{ "model": "upgrade_aquatic:block/river_leaves7" },
+			{ "model": "upgrade_aquatic:block/river_leaves8" }
+		]
+    }
+}

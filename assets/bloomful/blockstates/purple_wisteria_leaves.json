@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "bloomful:block/purple_wisteria_leaves1" },
+			{ "model": "bloomful:block/purple_wisteria_leaves2" },
+			{ "model": "bloomful:block/purple_wisteria_leaves3" },
+			{ "model": "bloomful:block/purple_wisteria_leaves4" },
+			{ "model": "bloomful:block/purple_wisteria_leaves5" },
+			{ "model": "bloomful:block/purple_wisteria_leaves6" },
+			{ "model": "bloomful:block/purple_wisteria_leaves7" },
+			{ "model": "bloomful:block/purple_wisteria_leaves8" }
+		]
+    }
+}

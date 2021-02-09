@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "druidcraft:block/elder_leaves1" },
+			{ "model": "druidcraft:block/elder_leaves2" },
+			{ "model": "druidcraft:block/elder_leaves3" },
+			{ "model": "druidcraft:block/elder_leaves4" },
+			{ "model": "druidcraft:block/elder_leaves5" },
+			{ "model": "druidcraft:block/elder_leaves6" },
+			{ "model": "druidcraft:block/elder_leaves7" },
+			{ "model": "druidcraft:block/elder_leaves8" }
+		]
+    }
+}

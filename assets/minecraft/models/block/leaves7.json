@@ -1,6 +1,6 @@
 {
 	"credit": "made by Motschen",
-	"parent": "block/block",
+	"ambientocculision": "false",
 	"textures": {
 		"0": "block/oak_leaves",
 		"particle": "#0"
@@ -10,6 +10,7 @@
 			"name": "normal_block",
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
+			"shade": false,
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "north", "tintindex": 0},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "east", "tintindex": 0},

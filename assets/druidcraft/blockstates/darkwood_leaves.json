@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "druidcraft:block/darkwood_leaves1" },
+			{ "model": "druidcraft:block/darkwood_leaves2" },
+			{ "model": "druidcraft:block/darkwood_leaves3" },
+			{ "model": "druidcraft:block/darkwood_leaves4" },
+			{ "model": "druidcraft:block/darkwood_leaves5" },
+			{ "model": "druidcraft:block/darkwood_leaves6" },
+			{ "model": "druidcraft:block/darkwood_leaves7" },
+			{ "model": "druidcraft:block/darkwood_leaves8" }
+		]
+    }
+}

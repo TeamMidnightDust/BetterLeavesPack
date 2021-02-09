@@ -1,0 +1,7 @@
+{
+    "parent":"block/extra_leaves7",
+    "textures": {
+        "0":"newlands:block/magnolia_leaves",
+		"1":"newlands:block/flowering_magnolia_leaves"
+    }
+}

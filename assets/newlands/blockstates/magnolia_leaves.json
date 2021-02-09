@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "newlands:block/magnolia_leaves1" },
+			{ "model": "newlands:block/magnolia_leaves2" },
+			{ "model": "newlands:block/magnolia_leaves3" },
+			{ "model": "newlands:block/magnolia_leaves4" },
+			{ "model": "newlands:block/magnolia_leaves5" },
+			{ "model": "newlands:block/magnolia_leaves6" },
+			{ "model": "newlands:block/magnolia_leaves7" },
+			{ "model": "newlands:block/magnolia_leaves8" }
+		]
+    }
+}

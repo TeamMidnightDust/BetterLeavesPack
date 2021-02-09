@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves1" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves2" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves3" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves4" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves5" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves6" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves7" },
+			{ "model": "betterdefaultbiomes:block/swamp_willow_leaves8" }
+		]
+    }
+}

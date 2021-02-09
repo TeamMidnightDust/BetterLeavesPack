@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves1",
+    "textures": {
+        "0":"quark:block/orange_blossom_leaves"
+    }
+}

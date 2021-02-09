@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "newlands:block/tropical_palm_leaves1" },
+			{ "model": "newlands:block/tropical_palm_leaves2" },
+			{ "model": "newlands:block/tropical_palm_leaves3" },
+			{ "model": "newlands:block/tropical_palm_leaves4" },
+			{ "model": "newlands:block/tropical_palm_leaves5" },
+			{ "model": "newlands:block/tropical_palm_leaves6" },
+			{ "model": "newlands:block/tropical_palm_leaves7" },
+			{ "model": "newlands:block/tropical_palm_leaves8" }
+		]
+    }
+}

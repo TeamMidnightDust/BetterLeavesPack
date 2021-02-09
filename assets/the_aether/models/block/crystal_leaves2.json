@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves2",
+    "textures": {
+        "0":"the_aether:block/crystal_leaves"
+    }
+}

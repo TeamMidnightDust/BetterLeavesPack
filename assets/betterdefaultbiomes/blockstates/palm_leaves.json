@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterdefaultbiomes:block/palm_leaves1" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves2" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves3" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves4" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves5" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves6" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves7" },
+			{ "model": "betterdefaultbiomes:block/palm_leaves8" }
+		]
+    }
+}

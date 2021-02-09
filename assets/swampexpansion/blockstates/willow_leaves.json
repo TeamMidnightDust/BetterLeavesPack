@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "swampexpansion:block/willow_leaves1" },
+			{ "model": "swampexpansion:block/willow_leaves2" },
+			{ "model": "swampexpansion:block/willow_leaves3" },
+			{ "model": "swampexpansion:block/willow_leaves4" },
+			{ "model": "swampexpansion:block/willow_leaves5" },
+			{ "model": "swampexpansion:block/willow_leaves6" },
+			{ "model": "swampexpansion:block/willow_leaves7" },
+			{ "model": "swampexpansion:block/willow_leaves8" }
+		]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "the_aether:block/golden_oak_leaves1" },
+			{ "model": "the_aether:block/golden_oak_leaves2" },
+			{ "model": "the_aether:block/golden_oak_leaves3" },
+			{ "model": "the_aether:block/golden_oak_leaves4" },
+			{ "model": "the_aether:block/golden_oak_leaves5" },
+			{ "model": "the_aether:block/golden_oak_leaves6" },
+			{ "model": "the_aether:block/golden_oak_leaves7" },
+			{ "model": "the_aether:block/golden_oak_leaves8" }
+		]
+    }
+}
