@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "environmental:block/purple_wisteria_leaves1" },
+      { "model": "environmental:block/purple_wisteria_leaves2" },
+      { "model": "environmental:block/purple_wisteria_leaves3" },
+      { "model": "environmental:block/purple_wisteria_leaves4" },
+      { "model": "environmental:block/purple_wisteria_leaves5" },
+      { "model": "environmental:block/purple_wisteria_leaves6" },
+      { "model": "environmental:block/purple_wisteria_leaves7" },
+      { "model": "environmental:block/purple_wisteria_leaves8" }
+    ]
+  }
+}

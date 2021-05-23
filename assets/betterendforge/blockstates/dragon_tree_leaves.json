@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "betterendforge:block/dragon_tree_leaves1" },
+      { "model": "betterendforge:block/dragon_tree_leaves2" },
+      { "model": "betterendforge:block/dragon_tree_leaves3" },
+      { "model": "betterendforge:block/dragon_tree_leaves4" },
+      { "model": "betterendforge:block/dragon_tree_leaves5" },
+      { "model": "betterendforge:block/dragon_tree_leaves6" },
+      { "model": "betterendforge:block/dragon_tree_leaves7" },
+      { "model": "betterendforge:block/dragon_tree_leaves8" }
+    ]
+  }
+}

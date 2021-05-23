@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "betterendforge:block/pythadendron_leaves1" },
+      { "model": "betterendforge:block/pythadendron_leaves2" },
+      { "model": "betterendforge:block/pythadendron_leaves3" },
+      { "model": "betterendforge:block/pythadendron_leaves4" },
+      { "model": "betterendforge:block/pythadendron_leaves5" },
+      { "model": "betterendforge:block/pythadendron_leaves6" },
+      { "model": "betterendforge:block/pythadendron_leaves7" },
+      { "model": "betterendforge:block/pythadendron_leaves8" }
+    ]
+  }
+}
