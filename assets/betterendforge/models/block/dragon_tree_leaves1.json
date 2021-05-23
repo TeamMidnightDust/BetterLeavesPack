@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves1",
-    "textures": {
-        "0":"betterendforge:block/dragon_tree_leaves"
-    }
+  "parent": "block/leaves1",
+  "textures": {
+    "0": "betterendforge:block/dragon_tree_leaves"
+  }
 }

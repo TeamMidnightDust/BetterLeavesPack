@@ -1,6 +1,6 @@
 {
-    "parent":"block/leaves3",
-    "textures": {
-        "0":"betterendforge:block/pythadendron_leaves"
-    }
+  "parent": "block/leaves3",
+  "textures": {
+    "0": "betterendforge:block/pythadendron_leaves"
+  }
 }
