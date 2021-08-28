@@ -1,6 +1,5 @@
 {
 	"credit": "made by Motschen",
-	"ambientocculision": "false",
 	"textures": {
 		"0": "block/oak_leaves",
 		"particle": "#0"
