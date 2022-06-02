@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves1" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves2" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves3" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves4" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves5" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves6" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves7" },
+			{ "model": "aurorasdeco:block/flowering_jacaranda_leaves8" }
+		]
+    }
+}
