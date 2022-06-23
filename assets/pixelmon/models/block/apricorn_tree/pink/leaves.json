@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves",
+    "textures": {
+        "all":"pixelmon:block/apricorn_tree/leaves_apricorn_pink"
+    }
+}
