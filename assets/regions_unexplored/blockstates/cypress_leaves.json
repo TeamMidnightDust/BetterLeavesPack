@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "regions_unexplored:block/cypress_leaves1" },
+      { "model": "regions_unexplored:block/cypress_leaves2" },
+      { "model": "regions_unexplored:block/cypress_leaves3" },
+      { "model": "regions_unexplored:block/cypress_leaves4" },
+      { "model": "regions_unexplored:block/cypress_leaves5" },
+      { "model": "regions_unexplored:block/cypress_leaves6" },
+      { "model": "regions_unexplored:block/cypress_leaves7" },
+      { "model": "regions_unexplored:block/cypress_leaves8" }
+    ]
+  }
+}
