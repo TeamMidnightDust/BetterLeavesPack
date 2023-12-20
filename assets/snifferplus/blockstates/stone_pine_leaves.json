@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "snifferplus:block/stone_pine_leaves1" },
+      { "model": "snifferplus:block/stone_pine_leaves2" },
+      { "model": "snifferplus:block/stone_pine_leaves3" },
+      { "model": "snifferplus:block/stone_pine_leaves4" },
+      { "model": "snifferplus:block/stone_pine_leaves5" },
+      { "model": "snifferplus:block/stone_pine_leaves6" },
+      { "model": "snifferplus:block/stone_pine_leaves7" },
+      { "model": "snifferplus:block/stone_pine_leaves8" }
+    ]
+  }
+}
