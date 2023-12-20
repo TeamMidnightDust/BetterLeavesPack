@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "biomemakeover:block/swamp_cypress_leaves1" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves2" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves3" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves4" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves5" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves6" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves7" },
+      { "model": "biomemakeover:block/swamp_cypress_leaves8" }
+    ]
+  }
+}
