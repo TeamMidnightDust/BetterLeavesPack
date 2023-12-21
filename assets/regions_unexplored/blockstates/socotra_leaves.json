@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "regions_unexplored:block/socotra_leaves1" },
+      { "model": "regions_unexplored:block/socotra_leaves2" },
+      { "model": "regions_unexplored:block/socotra_leaves3" },
+      { "model": "regions_unexplored:block/socotra_leaves4" },
+      { "model": "regions_unexplored:block/socotra_leaves5" },
+      { "model": "regions_unexplored:block/socotra_leaves6" },
+      { "model": "regions_unexplored:block/socotra_leaves7" },
+      { "model": "regions_unexplored:block/socotra_leaves8" }
+    ]
+  }
+}
