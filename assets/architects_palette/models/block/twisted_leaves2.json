@@ -1,0 +1,6 @@
+{
+    "parent":"block/leaves2",
+    "textures": {
+        "0":"architects_palette:block/twisted_leaves"
+    }
+}

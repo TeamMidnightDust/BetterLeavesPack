@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "bountifulfares:block/hoary_leaves1" },
+			{ "model": "bountifulfares:block/hoary_leaves2" },
+			{ "model": "bountifulfares:block/hoary_leaves3" },
+			{ "model": "bountifulfares:block/hoary_leaves4" },
+			{ "model": "bountifulfares:block/hoary_leaves5" },
+			{ "model": "bountifulfares:block/hoary_leaves6" },
+			{ "model": "bountifulfares:block/hoary_leaves7" },
+			{ "model": "bountifulfares:block/hoary_leaves8" }
+		]
+    }
+}

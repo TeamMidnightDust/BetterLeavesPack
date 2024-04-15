@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "bountifulfares:block/flowering_plum_leaves1" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves2" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves3" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves4" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves5" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves6" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves7" },
+			{ "model": "bountifulfares:block/flowering_plum_leaves8" }
+		]
+    }
+}

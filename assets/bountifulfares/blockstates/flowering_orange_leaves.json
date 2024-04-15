@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "bountifulfares:block/flowering_orange_leaves1" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves2" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves3" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves4" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves5" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves6" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves7" },
+			{ "model": "bountifulfares:block/flowering_orange_leaves8" }
+		]
+    }
+}

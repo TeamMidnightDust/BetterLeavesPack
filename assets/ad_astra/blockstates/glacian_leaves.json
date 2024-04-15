@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "ad_astra:block/glacian_leaves1" },
+			{ "model": "ad_astra:block/glacian_leaves2" },
+			{ "model": "ad_astra:block/glacian_leaves3" },
+			{ "model": "ad_astra:block/glacian_leaves4" },
+			{ "model": "ad_astra:block/glacian_leaves5" },
+			{ "model": "ad_astra:block/glacian_leaves6" },
+			{ "model": "ad_astra:block/glacian_leaves7" },
+			{ "model": "ad_astra:block/glacian_leaves8" }
+		]
+    }
+}
