@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "regions_unexplored:block/redwood_leaves1" },
+      { "model": "regions_unexplored:block/redwood_leaves2" },
+      { "model": "regions_unexplored:block/redwood_leaves3" },
+      { "model": "regions_unexplored:block/redwood_leaves4" },
+      { "model": "regions_unexplored:block/redwood_leaves5" },
+      { "model": "regions_unexplored:block/redwood_leaves6" },
+      { "model": "regions_unexplored:block/redwood_leaves7" },
+      { "model": "regions_unexplored:block/redwood_leaves8" }
+    ]
+  }
+}

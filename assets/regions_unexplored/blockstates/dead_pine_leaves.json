@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "regions_unexplored:block/dead_pine_leaves1" },
+      { "model": "regions_unexplored:block/dead_pine_leaves2" },
+      { "model": "regions_unexplored:block/dead_pine_leaves3" },
+      { "model": "regions_unexplored:block/dead_pine_leaves4" },
+      { "model": "regions_unexplored:block/dead_pine_leaves5" },
+      { "model": "regions_unexplored:block/dead_pine_leaves6" },
+      { "model": "regions_unexplored:block/dead_pine_leaves7" },
+      { "model": "regions_unexplored:block/dead_pine_leaves8" }
+    ]
+  }
+}
