@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "bountifulfares:block/plum_leaves1" },
+			{ "model": "bountifulfares:block/plum_leaves2" },
+			{ "model": "bountifulfares:block/plum_leaves3" },
+			{ "model": "bountifulfares:block/plum_leaves4" },
+			{ "model": "bountifulfares:block/plum_leaves5" },
+			{ "model": "bountifulfares:block/plum_leaves6" },
+			{ "model": "bountifulfares:block/plum_leaves7" },
+			{ "model": "bountifulfares:block/plum_leaves8" }
+		]
+    }
+}

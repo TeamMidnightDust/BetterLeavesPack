@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "architects_palette:block/twisted_leaves1" },
+			{ "model": "architects_palette:block/twisted_leaves2" },
+			{ "model": "architects_palette:block/twisted_leaves3" },
+			{ "model": "architects_palette:block/twisted_leaves4" },
+			{ "model": "architects_palette:block/twisted_leaves5" },
+			{ "model": "architects_palette:block/twisted_leaves6" },
+			{ "model": "architects_palette:block/twisted_leaves7" },
+			{ "model": "architects_palette:block/twisted_leaves8" }
+		]
+    }
+}

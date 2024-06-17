@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "bountifulfares:block/lemon_leaves1" },
+			{ "model": "bountifulfares:block/lemon_leaves2" },
+			{ "model": "bountifulfares:block/lemon_leaves3" },
+			{ "model": "bountifulfares:block/lemon_leaves4" },
+			{ "model": "bountifulfares:block/lemon_leaves5" },
+			{ "model": "bountifulfares:block/lemon_leaves6" },
+			{ "model": "bountifulfares:block/lemon_leaves7" },
+			{ "model": "bountifulfares:block/lemon_leaves8" }
+		]
+    }
+}
