@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves1" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves2" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves3" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves4" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves5" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves6" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves7" },
+			{ "model": "biomesoplenty:block/rainbow_birch_leaves8" }
+		]
+    }
+}

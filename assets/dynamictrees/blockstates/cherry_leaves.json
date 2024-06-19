@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/cherry_leaves1" },
+			{ "model": "block/cherry_leaves2" },
+			{ "model": "block/cherry_leaves3" },
+			{ "model": "block/cherry_leaves4" },
+			{ "model": "block/cherry_leaves5" },
+			{ "model": "block/cherry_leaves6" },
+			{ "model": "block/cherry_leaves7" },
+			{ "model": "block/cherry_leaves8" },
+			{ "model": "block/cherry_leaves1", "y": 90 },
+			{ "model": "block/cherry_leaves2", "y": 90 },
+			{ "model": "block/cherry_leaves3", "y": 90 },
+			{ "model": "block/cherry_leaves4", "y": 90 },
+			{ "model": "block/cherry_leaves5", "y": 90 },
+			{ "model": "block/cherry_leaves6", "y": 90 },
+			{ "model": "block/cherry_leaves7", "y": 90 },
+			{ "model": "block/cherry_leaves8", "y": 90 },
+			{ "model": "block/cherry_leaves1", "y": 180 },
+			{ "model": "block/cherry_leaves2", "y": 180 },
+			{ "model": "block/cherry_leaves3", "y": 180 },
+			{ "model": "block/cherry_leaves4", "y": 180 },
+			{ "model": "block/cherry_leaves5", "y": 180 },
+			{ "model": "block/cherry_leaves6", "y": 180 },
+			{ "model": "block/cherry_leaves7", "y": 180 },
+			{ "model": "block/cherry_leaves8", "y": 180 },
+			{ "model": "block/cherry_leaves1", "y": 270 },
+			{ "model": "block/cherry_leaves2", "y": 270 },
+			{ "model": "block/cherry_leaves3", "y": 270 },
+			{ "model": "block/cherry_leaves4", "y": 270 },
+			{ "model": "block/cherry_leaves5", "y": 270 },
+			{ "model": "block/cherry_leaves6", "y": 270 },
+			{ "model": "block/cherry_leaves7", "y": 270 },
+			{ "model": "block/cherry_leaves8", "y": 270 }
+		]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/oak_leaves1" },
+			{ "model": "block/oak_leaves2" },
+			{ "model": "block/oak_leaves3" },
+			{ "model": "block/oak_leaves4" },
+			{ "model": "block/oak_leaves5" },
+			{ "model": "block/oak_leaves6" },
+			{ "model": "block/oak_leaves7" },
+			{ "model": "block/oak_leaves8" },
+			{ "model": "block/oak_leaves1", "y": 90 },
+			{ "model": "block/oak_leaves2", "y": 90 },
+			{ "model": "block/oak_leaves3", "y": 90 },
+			{ "model": "block/oak_leaves4", "y": 90 },
+			{ "model": "block/oak_leaves5", "y": 90 },
+			{ "model": "block/oak_leaves6", "y": 90 },
+			{ "model": "block/oak_leaves7", "y": 90 },
+			{ "model": "block/oak_leaves8", "y": 90 },
+			{ "model": "block/oak_leaves1", "y": 180 },
+			{ "model": "block/oak_leaves2", "y": 180 },
+			{ "model": "block/oak_leaves3", "y": 180 },
+			{ "model": "block/oak_leaves4", "y": 180 },
+			{ "model": "block/oak_leaves5", "y": 180 },
+			{ "model": "block/oak_leaves6", "y": 180 },
+			{ "model": "block/oak_leaves7", "y": 180 },
+			{ "model": "block/oak_leaves8", "y": 180 },
+			{ "model": "block/oak_leaves1", "y": 270 },
+			{ "model": "block/oak_leaves2", "y": 270 },
+			{ "model": "block/oak_leaves3", "y": 270 },
+			{ "model": "block/oak_leaves4", "y": 270 },
+			{ "model": "block/oak_leaves5", "y": 270 },
+			{ "model": "block/oak_leaves6", "y": 270 },
+			{ "model": "block/oak_leaves7", "y": 270 },
+			{ "model": "block/oak_leaves8", "y": 270 }
+		]
+    }
+}

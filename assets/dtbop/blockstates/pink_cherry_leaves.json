@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/pink_cherry_leaves1" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves2" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves3" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves4" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves5" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves6" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves7" },
+			{ "model": "biomesoplenty:block/pink_cherry_leaves8" }
+		]
+    }
+}

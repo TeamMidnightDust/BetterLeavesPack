@@ -1,0 +1,10 @@
+{  "variants": {    "": [
+      { "model": "ecologics:block/walnut_leaves1" }, { "model": "ecologics:block/walnut_leaves1", "y": 90 }, { "model": "ecologics:block/walnut_leaves1", "y": 180 }, { "model": "ecologics:block/walnut_leaves1", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves2" }, { "model": "ecologics:block/walnut_leaves2", "y": 90 }, { "model": "ecologics:block/walnut_leaves2", "y": 180 }, { "model": "ecologics:block/walnut_leaves2", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves3" }, { "model": "ecologics:block/walnut_leaves3", "y": 90 }, { "model": "ecologics:block/walnut_leaves3", "y": 180 }, { "model": "ecologics:block/walnut_leaves3", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves4" }, { "model": "ecologics:block/walnut_leaves4", "y": 90 }, { "model": "ecologics:block/walnut_leaves4", "y": 180 }, { "model": "ecologics:block/walnut_leaves4", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves5" }, { "model": "ecologics:block/walnut_leaves5", "y": 90 }, { "model": "ecologics:block/walnut_leaves5", "y": 180 }, { "model": "ecologics:block/walnut_leaves5", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves6" }, { "model": "ecologics:block/walnut_leaves6", "y": 90 }, { "model": "ecologics:block/walnut_leaves6", "y": 180 }, { "model": "ecologics:block/walnut_leaves6", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves7" }, { "model": "ecologics:block/walnut_leaves7", "y": 90 }, { "model": "ecologics:block/walnut_leaves7", "y": 180 }, { "model": "ecologics:block/walnut_leaves7", "y": 270 },
+      { "model": "ecologics:block/walnut_leaves8" }, { "model": "ecologics:block/walnut_leaves8", "y": 90 }, { "model": "ecologics:block/walnut_leaves8", "y": 180 }, { "model": "ecologics:block/walnut_leaves8", "y": 270 }
+]}}

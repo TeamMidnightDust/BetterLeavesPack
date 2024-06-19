@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/flowering_oak_leaves1" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves2" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves3" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves4" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves5" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves6" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves7" },
+			{ "model": "biomesoplenty:block/flowering_oak_leaves8" }
+		]
+    }
+}

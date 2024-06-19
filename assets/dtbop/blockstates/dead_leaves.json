@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/dead_leaves1" },
+			{ "model": "biomesoplenty:block/dead_leaves2" },
+			{ "model": "biomesoplenty:block/dead_leaves3" },
+			{ "model": "biomesoplenty:block/dead_leaves4" },
+			{ "model": "biomesoplenty:block/dead_leaves5" },
+			{ "model": "biomesoplenty:block/dead_leaves6" },
+			{ "model": "biomesoplenty:block/dead_leaves7" },
+			{ "model": "biomesoplenty:block/dead_leaves8" }
+		]
+    }
+}

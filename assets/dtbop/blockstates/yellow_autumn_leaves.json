@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves1" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves2" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves3" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves4" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves5" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves6" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves7" },
+			{ "model": "biomesoplenty:block/yellow_autumn_leaves8" }
+		]
+    }
+}

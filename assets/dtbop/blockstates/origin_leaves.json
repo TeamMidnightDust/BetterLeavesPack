@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "biomesoplenty:block/origin_leaves1" },
+			{ "model": "biomesoplenty:block/origin_leaves2" },
+			{ "model": "biomesoplenty:block/origin_leaves3" },
+			{ "model": "biomesoplenty:block/origin_leaves4" },
+			{ "model": "biomesoplenty:block/origin_leaves5" },
+			{ "model": "biomesoplenty:block/origin_leaves6" },
+			{ "model": "biomesoplenty:block/origin_leaves7" },
+			{ "model": "biomesoplenty:block/origin_leaves8" }
+		]
+    }
+}

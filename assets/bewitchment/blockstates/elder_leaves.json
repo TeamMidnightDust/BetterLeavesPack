@@ -1,0 +1,10 @@
+{  "variants": {    "": [
+      { "model": "bewitchment:block/elder_leaves1" }, { "model": "bewitchment:block/elder_leaves1", "y": 90 }, { "model": "bewitchment:block/elder_leaves1", "y": 180 }, { "model": "bewitchment:block/elder_leaves1", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves2" }, { "model": "bewitchment:block/elder_leaves2", "y": 90 }, { "model": "bewitchment:block/elder_leaves2", "y": 180 }, { "model": "bewitchment:block/elder_leaves2", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves3" }, { "model": "bewitchment:block/elder_leaves3", "y": 90 }, { "model": "bewitchment:block/elder_leaves3", "y": 180 }, { "model": "bewitchment:block/elder_leaves3", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves4" }, { "model": "bewitchment:block/elder_leaves4", "y": 90 }, { "model": "bewitchment:block/elder_leaves4", "y": 180 }, { "model": "bewitchment:block/elder_leaves4", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves5" }, { "model": "bewitchment:block/elder_leaves5", "y": 90 }, { "model": "bewitchment:block/elder_leaves5", "y": 180 }, { "model": "bewitchment:block/elder_leaves5", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves6" }, { "model": "bewitchment:block/elder_leaves6", "y": 90 }, { "model": "bewitchment:block/elder_leaves6", "y": 180 }, { "model": "bewitchment:block/elder_leaves6", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves7" }, { "model": "bewitchment:block/elder_leaves7", "y": 90 }, { "model": "bewitchment:block/elder_leaves7", "y": 180 }, { "model": "bewitchment:block/elder_leaves7", "y": 270 },
+      { "model": "bewitchment:block/elder_leaves8" }, { "model": "bewitchment:block/elder_leaves8", "y": 90 }, { "model": "bewitchment:block/elder_leaves8", "y": 180 }, { "model": "bewitchment:block/elder_leaves8", "y": 270 }
+]}}

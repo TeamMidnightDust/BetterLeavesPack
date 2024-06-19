@@ -1,0 +1,10 @@
+{  "variants": {    "": [
+      { "model": "goodending:block/dense_dark_oak_leaves1" }, { "model": "goodending:block/dense_dark_oak_leaves1", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves1", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves1", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves2" }, { "model": "goodending:block/dense_dark_oak_leaves2", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves2", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves2", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves3" }, { "model": "goodending:block/dense_dark_oak_leaves3", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves3", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves3", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves4" }, { "model": "goodending:block/dense_dark_oak_leaves4", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves4", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves4", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves5" }, { "model": "goodending:block/dense_dark_oak_leaves5", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves5", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves5", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves6" }, { "model": "goodending:block/dense_dark_oak_leaves6", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves6", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves6", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves7" }, { "model": "goodending:block/dense_dark_oak_leaves7", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves7", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves7", "y": 270 },
+      { "model": "goodending:block/dense_dark_oak_leaves8" }, { "model": "goodending:block/dense_dark_oak_leaves8", "y": 90 }, { "model": "goodending:block/dense_dark_oak_leaves8", "y": 180 }, { "model": "goodending:block/dense_dark_oak_leaves8", "y": 270 }
+]}}
