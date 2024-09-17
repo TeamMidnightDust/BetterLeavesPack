@@ -1,0 +1,10 @@
+{  "variants": {    "": [
+      { "model": "fruitsdelight:block/lychee_leaves1" }, { "model": "fruitsdelight:block/lychee_leaves1", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves1", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves1", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves2" }, { "model": "fruitsdelight:block/lychee_leaves2", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves2", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves2", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves3" }, { "model": "fruitsdelight:block/lychee_leaves3", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves3", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves3", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves4" }, { "model": "fruitsdelight:block/lychee_leaves4", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves4", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves4", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves5" }, { "model": "fruitsdelight:block/lychee_leaves5", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves5", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves5", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves6" }, { "model": "fruitsdelight:block/lychee_leaves6", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves6", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves6", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves7" }, { "model": "fruitsdelight:block/lychee_leaves7", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves7", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves7", "y": 270 },
+      { "model": "fruitsdelight:block/lychee_leaves8" }, { "model": "fruitsdelight:block/lychee_leaves8", "y": 90 }, { "model": "fruitsdelight:block/lychee_leaves8", "y": 180 }, { "model": "fruitsdelight:block/lychee_leaves8", "y": 270 }
+]}}
