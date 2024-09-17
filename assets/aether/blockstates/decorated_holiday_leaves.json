@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "aether:block/decorated_holiday_leaves1" },
+			{ "model": "aether:block/decorated_holiday_leaves2" },
+			{ "model": "aether:block/decorated_holiday_leaves3" },
+			{ "model": "aether:block/decorated_holiday_leaves4" },
+			{ "model": "aether:block/decorated_holiday_leaves5" },
+			{ "model": "aether:block/decorated_holiday_leaves6" },
+			{ "model": "aether:block/decorated_holiday_leaves7" },
+			{ "model": "aether:block/decorated_holiday_leaves8" }
+		]
+    }
+}

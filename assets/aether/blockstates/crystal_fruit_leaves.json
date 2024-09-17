@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "aether:block/crystal_fruit_leaves1" },
+			{ "model": "aether:block/crystal_fruit_leaves2" },
+			{ "model": "aether:block/crystal_fruit_leaves3" },
+			{ "model": "aether:block/crystal_fruit_leaves4" },
+			{ "model": "aether:block/crystal_fruit_leaves5" },
+			{ "model": "aether:block/crystal_fruit_leaves6" },
+			{ "model": "aether:block/crystal_fruit_leaves7" },
+			{ "model": "aether:block/crystal_fruit_leaves8" }
+		]
+    }
+}
