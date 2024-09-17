@@ -1,0 +1,10 @@
+{  "variants": {    "": [
+      { "model": "fruitsdelight:block/fig_flowers1" }, { "model": "fruitsdelight:block/fig_flowers1", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers1", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers1", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers2" }, { "model": "fruitsdelight:block/fig_flowers2", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers2", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers2", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers3" }, { "model": "fruitsdelight:block/fig_flowers3", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers3", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers3", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers4" }, { "model": "fruitsdelight:block/fig_flowers4", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers4", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers4", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers5" }, { "model": "fruitsdelight:block/fig_flowers5", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers5", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers5", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers6" }, { "model": "fruitsdelight:block/fig_flowers6", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers6", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers6", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers7" }, { "model": "fruitsdelight:block/fig_flowers7", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers7", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers7", "y": 270 },
+      { "model": "fruitsdelight:block/fig_flowers8" }, { "model": "fruitsdelight:block/fig_flowers8", "y": 90 }, { "model": "fruitsdelight:block/fig_flowers8", "y": 180 }, { "model": "fruitsdelight:block/fig_flowers8", "y": 270 }
+]}}

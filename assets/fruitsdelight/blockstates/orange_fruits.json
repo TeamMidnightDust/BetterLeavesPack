@@ -1,0 +1,10 @@
+{  "variants": {    "": [
+      { "model": "fruitsdelight:block/orange_fruits1" }, { "model": "fruitsdelight:block/orange_fruits1", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits1", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits1", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits2" }, { "model": "fruitsdelight:block/orange_fruits2", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits2", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits2", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits3" }, { "model": "fruitsdelight:block/orange_fruits3", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits3", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits3", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits4" }, { "model": "fruitsdelight:block/orange_fruits4", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits4", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits4", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits5" }, { "model": "fruitsdelight:block/orange_fruits5", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits5", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits5", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits6" }, { "model": "fruitsdelight:block/orange_fruits6", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits6", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits6", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits7" }, { "model": "fruitsdelight:block/orange_fruits7", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits7", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits7", "y": 270 },
+      { "model": "fruitsdelight:block/orange_fruits8" }, { "model": "fruitsdelight:block/orange_fruits8", "y": 90 }, { "model": "fruitsdelight:block/orange_fruits8", "y": 180 }, { "model": "fruitsdelight:block/orange_fruits8", "y": 270 }
+]}}
