@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "aether:block/skyroot_leaves1" },
+			{ "model": "aether:block/skyroot_leaves2" },
+			{ "model": "aether:block/skyroot_leaves3" },
+			{ "model": "aether:block/skyroot_leaves4" },
+			{ "model": "aether:block/skyroot_leaves5" },
+			{ "model": "aether:block/skyroot_leaves6" },
+			{ "model": "aether:block/skyroot_leaves7" },
+			{ "model": "aether:block/skyroot_leaves8" }
+		]
+    }
+}
