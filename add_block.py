@@ -1,15 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""This script can automatically generate blockstate and block model files for the BetterLeaves resourcepack."""
+"""This script can automatically generate blockstate and block model files for the Better Leaves resourcepack."""
 
-import sys
+import argparse
 import json
 import os
 
-def main():
-    mod_namespace = sys.argv[1] # Take namespace from the first argument
-    block_name = sys.argv[2] # Take block name from the second argument
+def generate(mod_namespace, block_name, notint):
 
     # Create structure for blockstate file
     block_state_file = f"assets/{mod_namespace}/blockstates/{block_name}.json"
@@ -35,12 +33,15 @@ def main():
     if not os.path.exists("assets/{}/models/block/".format(mod_namespace)):
         os.makedirs("assets/{}/models/block/".format(mod_namespace))
 
+    base_model = "leaves"
+    if (notint):
+        base_model = "leaves_notint"
     # Create the eight individual leaf models
     for i in range(1, 9):
         # Create structure for block model file
         block_file = f"assets/{mod_namespace}/models/block/{block_name}{i}.json"
         block_data = {
-            "parent": f"block/leaves{i}",
+            "parent": f"block/{base_model}{i}",
             "textures": {
                 "0": f"{mod_namespace}:block/{block_name}"
             }
@@ -48,5 +49,19 @@ def main():
         with open(block_file, "w") as f:
             json.dump(block_data, f, indent=4)
 
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+                    description='This script can automatically generate blockstate and block model files for the Better Leaves resourcepack.',
+                    epilog='Feel free to ask for help at http://discord.midnightdust.eu/')
+
+    parser.add_argument('--notint', '-n', action='store_true')
+    parser.add_argument('namespace', type=str) # Take namespace from the first argument
+    parser.add_argument('block_names', nargs='+') # Take block names from the following arguments
+    args = parser.parse_args()
+
+    print(args)
+    print()
+
+    for block_name in args.block_names:
+        print(f"Generating blockstate and block model for {args.namespace}:{block_name}")
+        generate(args.namespace, block_name, args.notint)
