@@ -1,2 +1,2 @@
-# BetterLeavesPack
-GitHub repository for Motschen's Better Leaves resourcepack.
+# BetterLeavesPack (Legacy)
+The new & improved version can be found here: https://github.com/TeamMidnightDust/BetterLeavesLite/
